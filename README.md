@@ -6,7 +6,7 @@ Welcome to my home page ![Visitor Count](https://profile-counter.glitch.me/lyhga
 
 ****
 
-### Let's learn nlp 👋
+### Let's learn ml 👋
 
 <!-- GitHub 统计卡片
    链接：https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
